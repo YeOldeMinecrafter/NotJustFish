@@ -1,0 +1,21 @@
+[
+[
+    "modid":"NotJustFish",
+    "name":"NotJustFish",
+    "description":"A mod to add more fish, more tools for fishing than you'll ever need! Now includes blocks for making butter fishing shacks",
+    "version":"1.0",
+    "mcversion":"1.7.10",
+    "url":"",
+    "updateurl":"",
+    "authorlist":[
+    "YeOldeMinecrafter"
+    ],
+    "credits":"To my brother who wanted pet fish. Also to my dearest friends from Skyrider Gaming without whom I would not be coding.",
+    "logofile":"",
+    "screenshots":[
+    ],
+    "parents":"",
+    "dependencies":[
+    ],
+]
+]
